@@ -1,0 +1,75 @@
+#home{
+    height:400px;
+    flex-direction: column;
+    
+    
+    
+    overflow: hidden;
+    padding:3px 68px;
+    margin-bottom: 40px;
+
+}
+#home:before{
+    height:520px;
+    flex-direction: column;
+    
+
+}
+#services{
+    margin-top: 200;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#clients{
+    flex-wrap:wrap;
+    
+
+}
+#clients img{
+    width:70px;
+    padding:6px;
+    height:50px;
+}
+#navbar{
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+    
+#home p{
+    font-size: 13px;
+    text-align: center;
+    
+   
+    
+}
+#home h1{
+    font-size:20px;
+    margin-top: -140px;
+    padding: 12px 5px;
+    justify-content: center;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding-bottom: 8px;
+    justify-content: center;
+    padding:0px 7px;
+    padding-bottom: 5px;
+    
+}
+.btn{
+    margin-top: 5px;
+}
+.h-primary{
+    font-size: 30px;
+}
+.btn{
+    font-size: small;
+    padding: 4px 5px;
+    width: 100px;
+}
+.primary{
+    font-size: 40px;
+    text-align: center;
+}
